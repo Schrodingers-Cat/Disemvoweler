@@ -1,0 +1,5 @@
+/Users/katienoland/Documents/GitHub/Disemvoweler/Disemvoweler/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/katienoland/Documents/GitHub/Disemvoweler/Disemvoweler/bin/Debug/Disemvoweler.exe.mdb
+/Users/katienoland/Documents/GitHub/Disemvoweler/Disemvoweler/bin/Debug/Disemvoweler.exe
+/Users/katienoland/Documents/GitHub/Disemvoweler/Disemvoweler/obj/x86/Debug/Disemvoweler.exe
+/Users/katienoland/Documents/GitHub/Disemvoweler/Disemvoweler/obj/x86/Debug/Disemvoweler.exe.mdb
